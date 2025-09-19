@@ -1,0 +1,8 @@
+/* Your CSS code here. */
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}

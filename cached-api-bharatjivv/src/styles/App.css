@@ -1,0 +1,29 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+    overflow-y: auto;
+    height: 80vh;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.top-heading {
+    text-align: center;
+}
+
+.post-list {
+    list-style: disc;
+    padding-left: 1.5rem;
+}
+
+
+.list-item {
+    margin-bottom: 1.5rem;
+}
+
+.main-body {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
