@@ -363,7 +363,6 @@ function BooksList() {
             </table>
           </div>
 
-          {/* Empty State */}
           {state.sortedBooks.length === 0 && !state.loading && (
             <div className="text-center py-12">
               <div className="text-gray-400 mb-4">

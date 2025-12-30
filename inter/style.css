@@ -1,0 +1,18 @@
+.img-section {
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    object-fit: cover;
+    padding: 3px;
+}
+
+.img-section img {
+    max-width: 100%;
+    max-height: 100%;
+    /* filter: blur(4px); */
+    /* filter: grayscale(2); */
+    /* filter: brightness(2); */
+    /* filter: contrast(4); */
+    filter: grayscale(4);
+
+}

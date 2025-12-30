@@ -1,6 +1,7 @@
 #Dependency directories
 node_modules/
 **/node_modules/
+accio-node/
 
 #Build directories
 dist/
@@ -12,3 +13,7 @@ build/
 /*.txt
 /*.xlsx
 /*.json
+
+
+# pdf files 
+/**/*.pdf
