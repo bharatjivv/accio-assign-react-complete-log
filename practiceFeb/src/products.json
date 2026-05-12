@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 899
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 3499
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 2999
+  },
+  {
+    "id": 4,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Coffee Mug",
+    "category": "Kitchen",
+    "price": 399
+  },
+  {
+    "id": 6,
+    "name": "Water Bottle",
+    "category": "Fitness",
+    "price": 599
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499
+  },
+  {
+    "id": 8,
+    "name": "Notebook",
+    "category": "Stationery",
+    "price": 199
+  },
+  {
+    "id": 9,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 8999
+  },
+  {
+    "id": 10,
+    "name": "Desk Lamp",
+    "category": "Furniture",
+    "price": 1299
+  }
+]

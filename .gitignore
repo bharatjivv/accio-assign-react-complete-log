@@ -13,7 +13,15 @@ build/
 /*.txt
 /*.xlsx
 /*.json
-
+/*.jpg
 
 # pdf files 
 /**/*.pdf
+
+# Personal Projects
+urlBookmark/
+z_resume/
+event-planner/
+image.png
+workflowManagement/
+ebookapp/

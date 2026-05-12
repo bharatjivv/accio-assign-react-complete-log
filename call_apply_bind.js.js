@@ -35,7 +35,18 @@ function outer() {
 	};
 }
 
-const counter = outer();
+
+
+function one() {
+	let count = 0;
+	return function two () {
+	count++;
+	console.log(count)
+}
+}
+
+
+const counter = one();
 counter(); // 1
 counter(); // 2
 counter(); // 3
