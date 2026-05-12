@@ -59,17 +59,3 @@ function salaam (city) {
 const user = {name: 'Bharat'};
 
 salaam.call(user, 'Bhopal');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
